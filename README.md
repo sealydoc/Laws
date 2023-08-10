@@ -8,7 +8,6 @@
           <p>Specific provisions on the name of the food and particulars that shall accompany it are laid down in <a href="https://webgate.ec.europa.eu/reqs2/public/v2/requirement/auxi/eu/32011R1169_lblfood_annex_6.pdf/" target="new_form">Annex VI</a> to the Regulation</p>
         </td>
       </tr>
-
       <tr>
         <th scope="row">List of ingredients</th>
         <td>
