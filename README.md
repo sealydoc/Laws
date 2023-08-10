@@ -1,4 +1,4 @@
-# Laws
+# General rules on food labelling
 <tbody>
       <tr>
         <th scope="row">Name of the food</th>
