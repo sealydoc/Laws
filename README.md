@@ -8,6 +8,8 @@
           <p>Specific provisions on the name of the food and particulars that shall accompany it are laid down in <a href="https://webgate.ec.europa.eu/reqs2/public/v2/requirement/auxi/eu/32011R1169_lblfood_annex_6.pdf/" target="new_form">Annex VI</a> to the Regulation</p>
         </td>
       </tr>
+      </tbody>
+      <tbody>
       <tr>
         <th scope="row">List of ingredients</th>
         <td>
@@ -22,7 +24,6 @@
           </ol>
         </td>
       </tr>
-
       <tr>
         <th scope="row">Net quantity</th>
         <td>
@@ -31,7 +32,6 @@
           <p>For glazed frozen foods the net weight should be exclusive of the ice glaze</p>
         </td>
       </tr>
-
       <tr>
         <th scope="row">Minimum durability date</th>
         <td>
@@ -40,7 +40,6 @@
           <p>When foods are highly perishable and are therefore likely after a short period to constitute an immediate danger to human health, the date of minimum durability shall be replaced by the 'use by' date.</p>
         </td>
       </tr>
-
       <tr>
         <th scope="row">Storage conditions or<br>conditions of use</th>
         <td>
@@ -48,7 +47,6 @@
           <p>Once the package is opened, in order to enable appropriate storage or use of the food, the storage conditions and/or time limit for consumption shall be indicated, when needed</p>
         </td>
       </tr>
-
       <tr>
         <th scope="row">Country of origin or<br>place of provenance</th>
         <td>
@@ -61,14 +59,12 @@
           <p>Regulation (EU) 2018/775 <a target="oj" href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32018R0775:EN:NOT">(CELEX 32018R0775)</a> lays down how the information on the origin of the primary ingredient should be displayed on labels when it is not the same as the given country of origin or the given place of provenance of the food, according to Article 26(3) of Regulation (EU) 1169/2011 <a target="oj" href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32011R1169:EN:NOT">(CELEX 32011R1169)</a>.</p>
         </td>
       </tr>
-
       <tr>
         <th scope="row">Instructions of use</th>
         <td>
           <p>Instructions for use of a food shall be indicated to enable appropriate use</p>
         </td>
       </tr>
-
       <tr>
         <th scope="row">Alcoholic strength</th>
         <td>
@@ -76,14 +72,12 @@
           <p>The actual alcoholic strength of products containing more than 1,2% of alcohol different from those classified in HS Heading 2204, shall be indicated in accordance with <a href="https://webgate.ec.europa.eu/reqs2/public/v2/requirement/auxi/eu/32011R1169_lblfood_annex_12.pdf/" target="new_form">Annex XII</a></p>
         </td>
       </tr>
-
       <tr>
         <th scope="row">Lot marking</th>
         <td>
           <p>Indication which allows identification of the lot to which the foodstuff belongs shall be affixed on pre-packaged foodstuffs preceded by the letter 'L'</p>
         </td>
       </tr>
-
       <tr>
         <th scope="row">Nutrition declaration</th>
         <td>
